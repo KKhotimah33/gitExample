@@ -1,2 +1,2 @@
 # gitExample
-demo git command example
+demo git command example for pull
